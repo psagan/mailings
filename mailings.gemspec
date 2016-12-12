@@ -9,9 +9,9 @@ Gem::Specification.new do |s|
   s.version     = Mailings::VERSION
   s.authors     = ["psagan"]
   s.email       = ["patryk.sagan@icloud.com"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of Mailings."
-  s.description = "TODO: Description of Mailings."
+  s.homepage    = "https://github.com/psagan/mailings"
+  s.summary     = "Rails engine for mailings functionality in your Ruby on Rails application."
+  s.description = "Allows send mailings to users of your application."
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]
