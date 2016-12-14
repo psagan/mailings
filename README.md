@@ -1,4 +1,4 @@
-# Mailings
+# Mailings [under development - not yet production ready]
 Short description and motivation.
 
 ## Usage
